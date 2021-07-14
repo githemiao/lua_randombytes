@@ -10,7 +10,7 @@ description = {
 }
 
 dependencies = {
-   "bitop",
+   "luabitop",
    "lua >= 5.1, < 5.4"
 }
 
