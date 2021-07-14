@@ -1,5 +1,5 @@
 package = "lua-randombytes"
-version = "0.1-1"
+version = "0.1-3"
 source = {
    url = "https://github.com/githemiao/lua_randombytes.git",
    branch = "main"
