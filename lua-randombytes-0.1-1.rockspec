@@ -2,7 +2,7 @@ package = "lua-randombytes"
 version = "0.1-1"
 source = {
    url = "https://github.com/githemiao/lua_randombytes.git",
-   branch = "master"
+   branch = "main"
 }
 description = {
    homepage = "https://github.com/githemiao/lua_randombytes",
