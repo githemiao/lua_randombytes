@@ -1,8 +1,8 @@
 package = "lua-randombytes"
-version = "0.1"
+version = "0.1-1"
 source = {
-   url = "https://github.com/githemiao/lua_randombytes.git"
-   branch = "master"
+   url = "https://github.com/githemiao/lua_randombytes.git",
+   branch = "main"
 }
 description = {
    homepage = "https://github.com/githemiao/lua_randombytes",
@@ -10,7 +10,7 @@ description = {
 }
 
 dependencies = {
-   "bitop",
+   "luabitop",
    "lua >= 5.1, < 5.4"
 }
 
